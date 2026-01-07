@@ -4,7 +4,7 @@
 🌐 Portfolio: [myownportfoliopro.netlify.app](https://myownportfoliopro.netlify.app)  
 🚀 Live Project: [TradeBotGPT](https://tradebotgpt.org)  
 📧 shyampandurangshinde@gmail.com  
-📞 +91-9359938600  
+
 
 ---
 
