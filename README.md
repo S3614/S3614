@@ -1,64 +1,69 @@
-# Hi there 👋, I'm Shyam Shinde
+# 👋 Hi, I'm Shyam Shinde
 
-📍 Nallasopara (E), Mumbai  
-🌐 Portfolio: [myownportfoliopro.netlify.app](https://myownportfoliopro.netlify.app)  
-🚀 Live Project: [TradeBotGPT](https://tradebotgpt.org)  
-📧 shyampandurangshinde@gmail.com   
-
-## About Me
-
-I'm a **Full Stack Developer** passionate about building **live fintech platforms, automated trading systems, and clean web architectures**. I love turning ideas into production-ready projects that real users can use every day.  
-
-- Strong in **Python backend development** and web technologies.  
-- Experienced with **blockchain integrations** and admin dashboards.  
-- Always learning, experimenting, and building cool things. 🚀
+🚀 Full Stack Developer | Python Backend | FinTech & Automated Trading Systems  
+📍 Mumbai, India  
+🌐 Live Product: https://tradebotgpt.org  
+💼 GitHub: https://github.com/S3614  
 
 ---
 
-## Tech Stack
+## 🧠 About Me
+I'm a **Full Stack Developer** focused on building **production-ready fintech platforms**, automated trading systems, and scalable web applications.
 
+I enjoy working on:
+- Real-world financial workflows  
+- Secure backend systems  
+- Blockchain integrations  
+- Admin dashboards & automation  
+
+I believe in **building real products, not just demo projects**.
+
+---
+
+## 🛠 Tech Stack
 **Languages:** Python, JavaScript, Java  
 **Frontend:** HTML5, CSS3, Bootstrap, jQuery  
-**Backend:** Python (REST APIs, Workers)  
+**Backend:** Python (REST APIs, Background Workers)  
 **Databases:** MySQL, MongoDB, Oracle  
-**Blockchain & FinTech:** Wallet Integration, Transaction Verification  
-**Tools & Others:** Git, Linux, Admin Panels, Auth & Validation
+**FinTech & Blockchain:** Wallet Integration, Transaction Verification  
+**Tools:** Git, Linux, Admin Dashboards, Authentication Systems  
 
 ---
 
-## Featured Projects
+## 🚀 Featured Project
 
-### 🚀 [TradeBotGPT](https://tradebotgpt.org) – AI-Powered Automated Trading Platform
-**Role:** Full Stack Developer  
-**Tech Stack:** Python, HTML, JavaScript, SQL, Blockchain APIs  
-**Highlights:**  
-- Backend architecture for investment management, withdrawals, and referrals.  
-- Blockchain wallet integration & transaction verification.  
-- Admin panel for user & financial management.  
-- Real users & live financial workflows.
+### 🔥 TradeBotGPT – AI Powered Automated Trading Platform
+🌐 Live: https://tradebotgpt.org  
+👨‍💻 Role: Full Stack Developer  
 
-### 🍕 [Domino’s Pizza Website](https://dominospizzapro.netlify.app)
-Responsive static website built with HTML & CSS focusing on clean UI.
+**Key Highlights:**
+- Designed backend architecture for automated trading workflows  
+- Implemented blockchain wallet integration & transaction verification  
+- Built investment, withdrawal & referral systems  
+- Developed admin dashboard for financial monitoring  
+- Live platform with real users & transactions  
 
-### 🌐 [Personal Portfolio](https://myownportfoliopro.netlify.app)
-Showcases my skills, projects, and contact info with a sleek design.
-
-### 📄 [Digital Resume](https://myownresumepro.netlify.app)
-Interactive online resume with responsive layout.
+📂 Repository: https://github.com/S3614/tradebotgpt-platform  
 
 ---
 
-## Certifications
+## 📌 Other Projects
+- 🍕 **Domino’s Pizza Website** – Responsive UI using HTML & CSS  
+- 🌐 **Personal Portfolio Website**  
+- 📄 **Digital Resume (Online CV)**  
 
-- Diploma in Web Programming (HTML, CSS, JavaScript, jQuery)  
+---
+
+## 📜 Certifications
+- Diploma in Web Programming  
 - Diploma in Python  
 - C & C++ Certified  
 - MS-Office Certified  
 
 ---
 
-## Let's Connect!
+## 🤝 Let's Connect
+📧 Email: shyampandurangshinde@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/shyam-shinde-ss  
 
-I'm always open to **collaborations, new projects, or fintech experiments**.  
-Feel free to reach out via email or portfolio links above!  
-
+I'm open to **Full Stack / FinTech / Backend roles** and exciting collaborations 🚀
